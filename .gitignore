@@ -39,6 +39,8 @@ jspm_packages
 # VS Code settings
 .vscode
 
+.idea
+
 # JavaScript files
 app/**/*.js
 app/**/*.js.map
